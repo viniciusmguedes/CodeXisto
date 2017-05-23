@@ -1,0 +1,1 @@
+@extends('template.store')@section('publish')@include('client.store._publish')@endsection@section('content')<div class="col-lg-12">    <h3 style="text-align: center;">        <i class="fa fa-leaf" aria-hidden="true"></i>        Contato    </h3> </div>@endsection

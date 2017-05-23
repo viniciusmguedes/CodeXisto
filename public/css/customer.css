@@ -1,0 +1,124 @@
+.btn-default, .btn-default:hover, .btn-default:visited, .btn-default:active {
+    background-color: #273238;
+}
+.btn-default {
+    color: #eee;
+}
+.btn-default:hover {
+    color: #8fc04a;
+}
+
+p {
+  text-align: justify;  
+}
+
+.product-home-category, .product-home-category:hover {
+    color: #8fc04a;
+}
+.product-home-title, .product-home-title:hover {
+    color: #273238; 
+    font-weight: 700;
+}
+.product-home-img { 
+    max-width: 250px; 
+    max-height: 250px;
+}
+
+.fa-chevron-left, .fa-chevron-right {
+    margin: 200% 0%;
+    margin-bottom: 10%;
+}
+.fa-circle-o-notch, .fa-leaf {
+    color:#8fc04a;
+}
+
+#footer {
+    margin-top: 0;
+    border-top: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    color: #ddd;
+    background-color: #273238;
+}
+
+.navbar-logo {
+    max-height: 50px;
+    position: absolute;
+    margin-top: -15px;
+}
+.navbar-default {
+  background-color: #273238;
+  border-color: #8fc04a;
+  height: 70px;
+  padding-top: 10px;
+  font-weight: 500;
+  font-size: 10pt;
+}
+.navbar-default .navbar-brand {
+  color: #ddd;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ddd;
+}
+.navbar-default .navbar-text {
+  color: #ddd;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ddd;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #8fc04a;  
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ddd;
+  background-color: #8fc04a;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ddd;
+  background-color: #8fc04a;
+}
+.navbar-default .navbar-toggle {
+  border-color: #8fc04a;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #8fc04a;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ddd;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ddd;
+}
+.navbar-default .navbar-link {
+  color: #ddd;
+}
+.navbar-default .navbar-link:hover {
+  color: #ddd;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ddd;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ddd;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ddd;
+    background-color: #8fc04a;
+  }
+}
+
