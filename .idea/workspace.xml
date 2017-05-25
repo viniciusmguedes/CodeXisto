@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48673c85-212d-4222-822c-cd1cff9d57f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/shop-homepage.css" afterPath="$PROJECT_DIR$/public/css/shop-homepage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/template/store.blade.php" afterPath="$PROJECT_DIR$/resources/views/template/store.blade.php" />
     </list>
     <ignored path="CodeXisto.iws" />
@@ -98,11 +98,11 @@
         <entry file="file://$PROJECT_DIR$/resources/views/template/store.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
-                <element signature="e#3553#3559#0#HTML" expanded="true" />
-                <marker date="1495673063653" expanded="true" signature="1274:1296" ph="..." />
-                <marker date="1495673063653" expanded="true" signature="1375:1397" ph="..." />
+                <element signature="e#3557#3563#0#HTML" expanded="true" />
+                <marker date="1495673227427" expanded="true" signature="1278:1300" ph="..." />
+                <marker date="1495673227427" expanded="true" signature="1379:1401" ph="..." />
               </folding>
             </state>
           </provider>
@@ -421,12 +421,12 @@
       <workItem from="1495038694450" duration="1346000" />
       <workItem from="1495059685414" duration="2444000" />
       <workItem from="1495373937916" duration="8537000" />
-      <workItem from="1495668427354" duration="3396000" />
+      <workItem from="1495668427354" duration="3558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28317000" />
+    <option name="totallyTimeSpent" value="28479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -832,11 +832,11 @@
     <entry file="file://$PROJECT_DIR$/resources/views/template/store.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
-            <element signature="e#3553#3559#0#HTML" expanded="true" />
-            <marker date="1495673063653" expanded="true" signature="1274:1296" ph="..." />
-            <marker date="1495673063653" expanded="true" signature="1375:1397" ph="..." />
+            <element signature="e#3557#3563#0#HTML" expanded="true" />
+            <marker date="1495673227427" expanded="true" signature="1278:1300" ph="..." />
+            <marker date="1495673227427" expanded="true" signature="1379:1401" ph="..." />
           </folding>
         </state>
       </provider>
