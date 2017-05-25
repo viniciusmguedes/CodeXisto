@@ -14,8 +14,8 @@
         rel="stylesheet">
         
         <!-- Custom CSS -->
-        <link href="{{url('css/shop-homepage.css')}}" rel="stylesheet">
-        <link href="{{url('css/customer.css')}}" rel="stylesheet">
+        <link href="css/shop-homepage.css" rel="stylesheet">
+        <link href="css/customer" rel="stylesheet">
 
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
